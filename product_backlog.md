@@ -20,9 +20,9 @@ For teachers to store mark realated info about their students.
     - Students
         - first_name: str
         - last_name: str
-        - Gender
-        - image
-        - student number
+        - Gender: str 
+        - image: ??
+        - student number: int
         - grade: int
         - email
         - marks: List[float]
